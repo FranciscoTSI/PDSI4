@@ -1,0 +1,12 @@
+		Usuario do sistema Estrategia Saude da Familia
+
+	O usuário deve cadastrar todos que fazem parte da equipe, administrador, secretário da saúde, medico, enfermeiro, técnico de enfermagem, agente de saúde, assistente social, fisioterapeuta, nutricionista, psicóloga, número da unidade básica, número da cidade.
+O usuário deve cadastrar todos os procedimentos de cada profissional:
+•	Administrador – deve cadastrar, atualizar e excluir funcionários, cadastrar, atualizar e excluir procedimentos.
+•	Secretário da saúde – pode visualizar quem está cadastrado no sistema, a função, procedimentos executados por cada profissional.
+•	Medico – acessa prontuário de paciente, registra procedimento, consulta medica, prescrição de medicamentos, pedido de exame, visitas medicas domiciliares.
+•	Enfermeiro – acessa prontuário do paciente, registra procedimento, consulta de enfermagem, curativos, visitas de puérpera, vacinas em domicílios, pode ter acesso a todas os registros dos outros profissionais menos os administrador e secretário, para imprimir todos os relatórios, lista de atendimento de todos os usuários de sitstema.
+•	Técnico de enfermagem – deve acessa prontuário do paciente, deve registrar procedimento, deve realizar pré-consulta e deve realizar pós consulta, deve verificar situação de saúde do paciente.
+	O agente de saúde – deve cadastrar ou atualizar endereços e situação de saúde de todos os pacientes em todas as visitas 
+	
+	
